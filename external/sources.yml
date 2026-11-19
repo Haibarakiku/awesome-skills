@@ -60,7 +60,15 @@ sources:
     tags: [awesome-list, hooks, slash-commands, community]
     home: https://github.com/hesreallyhim/awesome-claude-code
 
-  - slug: travisvn-awesome-claude-skills
+  - slug: skillux-hub-web-builder
+  url: https://github.com/skillux-hub/web-builder.git
+  license: MIT
+  category: curated-list
+  description: A free open-source skill that builds complete, verified websites from a brief in Claude Code, Cursor, or Codex.
+  tags: [web, website-builder, claude-code, cursor, codex]
+  home: https://github.com/skillux-hub/web-builder
+
+- slug: travisvn-awesome-claude-skills
     url: https://github.com/travisvn/awesome-claude-skills.git
     license: MIT
     category: curated-list
